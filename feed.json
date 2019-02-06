@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Eco Eydean",
+    "description": "",
+    "home_page_url": "https://eco.eydean.com",
+    "feed_url": "https://eco.eydean.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Manish Marahatta"
+    },
+    "items": [
+        {
+            "id": "https://eco.eydean.com/co2-ppm-daily.html",
+            "url": "https://eco.eydean.com/co2-ppm-daily.html",
+            "title": "CO2 PPM Daily",
+            "summary": "\"The impacts of climate change are becoming increasingly apparent and severe. Concurrently, a variety of public reporting platforms require that company’s regularly track, report,&hellip;",
+            "content_html": "<p class=\"p1\">\"The impacts of climate change are becoming increasingly apparent and severe. Concurrently, a variety of public reporting platforms require that company’s regularly track, report, and manage sources of climate pollution, otherwise known as greenhouse gas emissions (GHG). The first step to managing emissions is to conduct what is known as a GHG inventory or carbon footprint.</p>\n<p>We at <a href=\"eydean.com\">Eydean</a> has decided to act on these majors to fight climate change:</p>\n<ul>\n<li>Conducting a greenhouse gas inventory and data collection overview</li>\n<li>Using and formulating Eydean’s Carbon Calculator (EC2)</li>\n<li>Tackling Scope 1 and 2 emissions:<span class=\"Apple-converted-space\">  </span>Data gathering and calculations for owned facility and vehicle emissions, as well as figuring out an overview on calculating emissions from electricity consumption (including how to run a sensitivity analysis using multiple electricity emissions factors)</li>\n<li>Estimating embodied emissions from the supply chain: Overview of methodology</li>\n<li>Tackling non-supply chain Scope 3 emissions: Data gathering and calculations for employee commute, business travel, and solid waste emissions.</li>\n<li>Introducing Eydean’s GHG inventory report template</li>\n<li>Sharing and Disiminating Knowledge base out in public</li>\n</ul>\n<p> <img class=\"post__image\" src=\"https://eco.eydean.com/media/posts/1/Growth-rate-of-Carbon-Dioxide.png\" alt=\"Growth Rate of CO2\" width=\"2937\" height=\"1677\"></p>\n<blockquote>\n<p>Go Green, There is no Planet 'B'.</p>\n<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>\n</blockquote>",
+            "image": "https://eco.eydean.com/media/posts/1/Trends-in-Atmospheric-Carbon-Dioxide.png",
+            "author": {
+                "name": "Manish Marahatta"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-05T23:00:22+05:45",
+            "date_modified": "2019-02-05T23:22:59+05:45"
+        }
+    ]
+}

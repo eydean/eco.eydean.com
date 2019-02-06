@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Eco Eydean</title>
+    <link href="https://eco.eydean.com/feed.xml" rel="self" />
+    <link href="https://eco.eydean.com" />
+    <updated>2019-02-06T20:20:48+05:45</updated>
+    <author>
+        <name>Manish Marahatta</name>
+    </author>
+    <id>https://eco.eydean.com</id>
+
+    <entry>
+        <title>CO2 PPM Daily</title>
+        <author>
+            <name>Manish Marahatta</name>
+        </author>
+        <link href="https://eco.eydean.com/co2-ppm-daily.html"/>
+        <id>https://eco.eydean.com/co2-ppm-daily.html</id>
+
+        <updated>2019-02-05T23:22:59+05:45</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://eco.eydean.com/media/posts/1/Trends-in-Atmospheric-Carbon-Dioxide.png" alt="" />
+                    "The impacts of climate change are becoming increasingly apparent and severe. Concurrently, a variety of public reporting platforms require that company’s regularly track, report,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://eco.eydean.com/media/posts/1/Trends-in-Atmospheric-Carbon-Dioxide.png" alt="" />
+                <p class="p1">"The impacts of climate change are becoming increasingly apparent and severe. Concurrently, a variety of public reporting platforms require that company’s regularly track, report, and manage sources of climate pollution, otherwise known as greenhouse gas emissions (GHG). The first step to managing emissions is to conduct what is known as a GHG inventory or carbon footprint.</p>
+<p>We at <a href="eydean.com">Eydean</a> has decided to act on these majors to fight climate change:</p>
+<ul>
+<li>Conducting a greenhouse gas inventory and data collection overview</li>
+<li>Using and formulating Eydean’s Carbon Calculator (EC2)</li>
+<li>Tackling Scope 1 and 2 emissions:<span class="Apple-converted-space">  </span>Data gathering and calculations for owned facility and vehicle emissions, as well as figuring out an overview on calculating emissions from electricity consumption (including how to run a sensitivity analysis using multiple electricity emissions factors)</li>
+<li>Estimating embodied emissions from the supply chain: Overview of methodology</li>
+<li>Tackling non-supply chain Scope 3 emissions: Data gathering and calculations for employee commute, business travel, and solid waste emissions.</li>
+<li>Introducing Eydean’s GHG inventory report template</li>
+<li>Sharing and Disiminating Knowledge base out in public</li>
+</ul>
+<p> <img class="post__image" src="https://eco.eydean.com/media/posts/1/Growth-rate-of-Carbon-Dioxide.png" alt="Growth Rate of CO2" width="2937" height="1677"></p>
+<blockquote>
+<p>Go Green, There is no Planet 'B'.</p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+</feed>
